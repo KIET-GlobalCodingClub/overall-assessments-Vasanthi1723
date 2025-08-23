@@ -36,7 +36,7 @@ python send_emails.py
 Each student will automatically receive their certificate by email.
 📊 Example CSV (students.csv)
 Name,Roll_No,Branch,Hackathon,Date,Topic,Email
-Tammana Sri Lakshmi Vasanthi,23B21A4202,CSE,AI Hackathon,20-08-2025,AI Chatbot,vasanthi@example.com
+Tammana Sri Lakshmi Vasanthi,23B21A4202,CSE,AI Hackathon,20-08-2025,AI Chatbot,vasanthitammana@gmail.com
 Ravi Kumar,23B21A4203,ECE,AI Hackathon,20-08-2025,Face Recognition,ravi@example.com
 
 🏆 Output :-
@@ -46,11 +46,14 @@ Principal’s name & designation
 Signature in a stylish font
 Emailed directly to students
 
+🖼️ Sample template :-
+<img width="2000" height="1414" alt="template" src="https://github.com/user-attachments/assets/092da29e-f320-415e-afb2-477dd4aef16f" />
+
 🖼️ Sample Output Screenshot :-
 Here is an example of a generated certificate:
 ![alt text](TAMMANA_SRI_LAKSHMI_VASANTHI_certificate.png)
-![alt text](yandapalli_sai_varshitha_certificate.png)
 
 👩‍💻 Author :-
 Tammana Sri Lakshmi Vasanthi
 (Computer Science Engineer, AI/ML Enthusiast)
+
